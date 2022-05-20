@@ -5,7 +5,7 @@
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo minhas habilidades em Front-End.
 - 🎓 &nbsp; Estudando **Análise de Sistemas** na <a href="link da sua faculdade">FMU.</a>
-- 💼 &nbsp; Em busca de um estágio para Front-End.
+- 💼 &nbsp; Em busca de uma vaga de estágio.
 - 🌱 &nbsp; Aprendendo mais sobre Javascript e REACT.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
