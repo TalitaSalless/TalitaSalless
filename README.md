@@ -22,6 +22,6 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaSalless&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
-
+  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 
