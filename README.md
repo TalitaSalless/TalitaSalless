@@ -7,8 +7,8 @@
 - 🎓 Estudando **Análise de Sistemas** na <a href="link da sua faculdade">FMU.</a>
 - 💼 Em busca de uma vaga de estágio em tecnologia.
 - 🌱 Aprendendo mais sobre Javascript e futuramente REACT.
-- [linkedin]: https://www.linkedin.com/in/talita-salles/
-👔 [linkedin][linkedin]
+- 
+- <a href="https://www.linkedin.com/in/talita-salles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h3> :rocket: &nbsp; Skills </h3>
 
@@ -22,6 +22,5 @@
 
 [![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaSalless&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
 
-  ![Snake animation](https://github.com/devemdobro/devemdobro/blob/output/github-contribution-grid-snake.svg)
 
 
