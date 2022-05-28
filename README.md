@@ -7,8 +7,8 @@
 - 🎓 Estudando **Análise de Sistemas** na <a href="link da sua faculdade">FMU.</a>
 - 💼 Em busca de uma vaga de estágio em tecnologia.
 - 🌱 Aprendendo mais sobre Javascript e futuramente REACT.
-- 
-- <a href="https://www.linkedin.com/in/talita-salles/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+- <a href="https://www.linkedin.com/in/talita-salles/" target="_blank"><img align="center" alt="Js" height="30" width="100" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
 <h3> :rocket: &nbsp; Skills </h3>
 
