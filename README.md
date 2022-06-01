@@ -18,9 +18,10 @@
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
   ****
   
-[![card](https://github-readme-stats.vercel.app/api?username=TalitaSalless&theme=default&show_icons=true)](https://github.com/iuricode/)
-
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaSalless&hide=html&layout=compact&theme=default)](https://github.com/iuricode/)
-
+<div>
+  <a href="https://github.com/TalitaSalless">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=TalitaSalless&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TalitaSalless&layout=compact&langs_count=6&theme=dracula"/>
+</div>
 
 
