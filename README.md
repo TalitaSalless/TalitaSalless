@@ -4,7 +4,8 @@
 <h3>&nbsp;Sobre mim </h3>
 
 - 💻 Explorando novas tecnologias e desenvolvendo minhas habilidades em Front-End.
-- 🎓  **Analista de Sistemas** pela FMU e também **Desenvolvimento Front-end** no curso DEVQUEST. 
+- 🎓  **Analista de Sistemas**
+- 🎓 **Desenvolvimento Front-end** - curso DEVQUEST. 
 - 💼 Em busca de uma vaga de desenvolvedora front-end júnior.
 - 🌱 Aprendendo mais sobre React.
 
