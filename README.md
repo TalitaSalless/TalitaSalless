@@ -5,7 +5,8 @@
 
 - 💻 Explorando novas tecnologias e desenvolvendo minhas habilidades em Front-End.
 - 🎓  **Analista de Sistemas**
-- 🎓 **Desenvolvimento Front-end** - curso DEVQUEST. 
+- 🎓 **Desenvolvimento Front-end** - curso DEVQUEST.
+- 🎓 **Cientista de dados** - Bootcamp Santander - DIO. 
 - 💼 Em busca de uma vaga de desenvolvedora front-end júnior.
 - 🌱 Aprendendo mais sobre React.
 
