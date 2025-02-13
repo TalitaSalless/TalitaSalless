@@ -1,9 +1,12 @@
 <h2>👋 Olá, seja bem-vindo(a)!</h2>
 
-🎯 Buscando minha primeira oportunidade como Desenvolvedora Front-End Júnior, com foco em soluções eficientes e criativas.<br>
-🚀 Em constante evolução, estudando React e TypeScript para criar interfaces modernas e dinâmicas.<br>
-📌 Compartilho projetos e aprendizados por aqui. 
-  <br>
+🚀 Sobre mim
+- 🎓 **Formação:** Cursando **Gestão da Tecnologia da Informação** 
+- 💻 **Especialização:** Desenvolvimento Front-End - DEVQUEST
+- 🌱 Atualmente estudando **React e TypeScript**
+- 💼 Buscando minha primeira oportunidade como **Desenvolvedora Front-End Júnior**
+
+<br>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,figma,git,github,jest,react,sass" />
