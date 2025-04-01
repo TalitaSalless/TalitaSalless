@@ -1,7 +1,6 @@
 <h2>👋 Olá, seja bem-vindo(a)!</h2>
 
-🚀 Sobre mim
-- 🎓 **Formação:** Cursando **Gestão da Tecnologia da Informação** 
+🚀 Sobre mim 
 - 💻 **Especialização:** Desenvolvimento Front-End - DEVQUEST
 - 🌱 Atualmente estudando **React e TypeScript**
 - 💼 Buscando minha primeira oportunidade como **Desenvolvedora Front-End Júnior**
