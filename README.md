@@ -1,8 +1,8 @@
 <h1 align="center">👩‍💻 Talita Salles</h1>
 
-<p align="center">
-Desenvolvedora Front-End Júnior • React • UI/UX • Design Responsivo
-</p>
+<h3 align="center">
+  <strong>Desenvolvedora Front-End Júnior • React • UI/UX • Design Responsivo</strong>
+</h3>
 
 ---
 
