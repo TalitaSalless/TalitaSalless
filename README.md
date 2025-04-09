@@ -26,7 +26,7 @@ Desenvolvedora Front-End Júnior • React • UI/UX • Design Responsivo
 
 ### 📫 Contato
 
-- 📧 **talita_salles9@outlook.com**  
+- 📧 [E-mail](talitasalles93@gmail.com)  
 - 💼 [LinkedIn](https://linkedin.com/in/talita-salles)  
 - 🌐 [Portfólio](https://talitasalles.netlify.app)
 
