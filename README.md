@@ -1,26 +1,26 @@
 ### 🚀 Sobre mim
 
-- 💻 Desenvolvedora Front-End com foco em React, JavaScript e TypeScript  
-- 🎓 Formação em Análise e Desenvolvimento de Sistemas (FMU)  
-- 🌱 Estudando testes automatizados, Tailwind CSS e boas práticas  
-- 📌 Buscando minha primeira oportunidade profissional na área  
-- 💜 Apaixonada por interfaces bonitas, acessíveis e funcionais
+- 💻 Desenvolvedora com foco em **React**, **JavaScript** e **TypeScript**  
+- 🎓 Formada em **Análise e Desenvolvimento de Sistemas** — FMU  
+- 🌱 Atualmente estudando **Tailwind CSS**, **Testes automatizados** e boas práticas  
+- 📌 Em busca da **primeira oportunidade profissional** na área de tecnologia  
+- 💜 Apaixonada por criar interfaces **bonitas**, **acessíveis** e com **experiência de usuário de verdade**
 
 ---
 
-### 🧠 Tecnologias
+### 🧠 Tecnologias que utilizo
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,styledcomponents,figma,git,github" width="400" />
 </p>
 
 ---
 
-### 📫 Contato
+### 📫 Onde me encontrar
 
-- 📧 [E-mail](talitasalles93@gmail.com)  
-- 💼 [LinkedIn](https://linkedin.com/in/talita-salles)  
-- 🌐 [Portfólio](https://talitasalles.netlify.app)
+- 📧 **E-mail:** [talitasalles93@gmail.com](mailto:talitasalles93@gmail.com)  
+- 💼 **LinkedIn:** [linkedin.com/in/talita-salles](https://linkedin.com/in/talita-salles)  
+- 🌐 **Portfólio:** [talitasalles.netlify.app](https://talitasalles.netlify.app)
 
 ---
 
