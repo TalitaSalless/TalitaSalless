@@ -3,7 +3,7 @@
 - 💻 Desenvolvedora com foco em **React**, **JavaScript** e **TypeScript**  
 - 🎓 Formada em **Análise e Desenvolvimento de Sistemas** — FMU  
 - 🌱 Atualmente estudando **Tailwind CSS**, **Testes automatizados** e boas práticas  
-- 💜 Apaixonada por criar interfaces **bonitas**, **acessíveis** e com **experiência de usuário de verdade**
+- 💜 Apaixonada por criar interfaces **bonitas**, **acessíveis** e com **experiência de usuário**
 
 ---
 
